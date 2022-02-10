@@ -1,4 +1,4 @@
-# Adi bau bawang-Adi bau bawang-Adi bau bawang-Adi bau bawang-Adi bau bawang
+# Adi bau bawang
 
 # PengalamanBelajar
 Berisi pengalaman ku belajar di dicoding
