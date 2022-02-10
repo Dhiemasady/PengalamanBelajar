@@ -1,3 +1,5 @@
+# Adi bau bawang-Adi bau bawang-Adi bau bawang-Adi bau bawang-Adi bau bawang
+
 # PengalamanBelajar
 Berisi pengalaman ku belajar di dicoding
 
@@ -29,4 +31,3 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
 
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
-# Adi bau bawang-Adi bau bawang-Adi bau bawang-Adi bau bawang-Adi bau bawang
